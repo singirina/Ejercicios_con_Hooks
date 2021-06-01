@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.rojo {
+  background-color: red;
+}
+.azulito {
+  color: white;
+  background-color: cyan;
+  font-style: italic;
+}
+.cabecera {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+}
